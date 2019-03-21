@@ -1,0 +1,128 @@
+body {
+   
+}
+
+
+
+header {
+    margin-top: 20px;
+}
+
+ul {
+    text-align: center;
+    margin-top: 40px;
+    
+    
+}
+ul li{
+    display: inline;
+    text-align: center;
+    padding: 0px 62px 0px 62px;
+    border: solid 1px;
+    
+}
+a {
+    
+    text-decoration: none;
+}
+
+h2 {
+    color:rgb(171, 73, 90);
+}
+
+p {
+    display: inline;
+}
+
+.container {
+    background-image: url(img/second_logo.png);
+    background-repeat: no-repeat;
+    height: 410px;
+    width: 1020px;
+    margin: 20px auto;
+    display: block;
+   
+    
+}
+
+.mid_container {
+    background-image: url(img/Base2.png);
+    background-repeat: no-repeat;
+    width: 1020px;
+    height: 410px;
+    margin: 50px auto;
+    display: block;
+}
+.pie {
+    height: 210px;
+    width: 318px;
+    margin: auto;
+    padding: 60px 15px 0px 31px;
+    
+}
+
+.sandwich {
+    padding-right: 15px;
+}
+
+.text_pie {
+    float: left;
+    border: solid 1px;
+    display: inline;
+    padding: 7px 0px 0px 29px;
+    width: 318px;
+}
+
+.text_sand {
+    float:left;
+    border: solid 1px;
+    display: inline;
+    width: 318px;
+    margin-left: 15px;
+}
+.text_cake {
+    border: solid 1px;
+    display: inline;
+    max-width: 318px;
+    margin-left: 10px;
+}
+
+.big_logo {
+    padding-top: 251px;
+    margin:auto;
+    text-align: center;
+    align-items:center;
+}
+
+img {
+    
+}
+
+.text1 {
+    padding: 2px 0px 56px 94px;
+}
+
+
+.recipe {
+    display: block;
+    margin-top: 25px;
+    box-shadow: none;
+    width: 103px;
+    height: 26px;
+    font-size: 9pt;
+    background-color:#f8f8f8;
+    box-shadow: none;
+    border: solid 1px;
+    border-color: #c2c2c2;
+    
+    
+    
+    
+}
+
+.small_logo {
+    padding-top: 50px;
+    padding-left: 94px;
+    margin: auto;
+    display: inline;
+}
